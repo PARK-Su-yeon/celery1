@@ -1,0 +1,5 @@
+AWS_ACCESS_KEY = "AKIAYUBQPCVYKLW3JSFX"
+AWS_SECRET_ACCESS_KEY = "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"
+AWS_S3_BUCKET_REGION = "ap-northeast-2"
+AWS_S3_BUCKET_NAME = "summersilicon"
+AWS_S3_BUCKET_URL="https://summersilicon.s3.ap-northeast-2.amazonaws.com"
